@@ -1,0 +1,138 @@
+h1,h2,h3{
+    text-align: center;
+    color: brown;
+}
+
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.coffee-logo{
+    float: left;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.font-it{
+    font-style: italic;
+    float: right;
+    width: 25%;
+    background-color: tan;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#lnk-col{
+    color: blue;
+}
+
+nav li{
+    display: inline;
+    float: left;
+}
+
+
+nav a:link, nav a:visited{
+    text-decoration: none;
+    color: white;
+    display: block;
+    width: 160px;
+    text-align: center;
+    padding: 10px 0;
+    background-color: brown;
+    margin-bottom: 20px;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav a:hover{
+    background-color: rgb(219, 183, 75);
+}
+
+body{
+    margin: 0 auto;
+    width: 960px;
+}
+
+#parent-navv {
+    margin: 0 0;
+}
+
+.side-picc{
+    float: right;
+    background-color: tan;
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.imgg{
+    float: right;
+}
+
+header{
+    background-image: url(coffee-beans.jpg);
+    height: 97px;
+}
+
+#mainn-title{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+
+#bari-picc{
+    margin-left: 25%;
+}
+
+footer{
+    margin: 80px 0;
+}
+
+footer nav a:link, footer nav a:visited{
+    color: gray;
+    width: 240px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    background-color: white;
+}
+
+footer nav a:hover{
+    background-color: black;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+th{
+    background-color: tan;
+}
+
+.espresso{
+    float: right;
+    background-color: tan;
+    margin-left: 10px;
+}
+
+#vid-latte{
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
